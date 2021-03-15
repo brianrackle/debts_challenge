@@ -1,0 +1,1 @@
+Example linear solution for balancing debts between a group
